@@ -1,0 +1,12 @@
+# coding: Shift_JIS
+
+print("Hello world!")
+a=5; b=3; c=a+ \
+b;					#\‚Å•¶‚Ì“r’†‚Å‰üs‰Â”\
+print(c)
+
+d=3
+if d==5:
+	print("AAA")	#if•¶‚Ì‘ÎÛ
+	print("BBB")	#if•¶‚Ì‘ÎÛ
+print("CCC")		#if•¶‚Ì‘ÎÛŠO
