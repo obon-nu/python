@@ -10,3 +10,5 @@ if d==5:
 	print("AAA")	#if•¶‚Ì‘ÎÛ
 	print("BBB")	#if•¶‚Ì‘ÎÛ
 print("CCC")		#if•¶‚Ì‘ÎÛŠO
+
+
