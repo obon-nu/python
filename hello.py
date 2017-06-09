@@ -11,4 +11,5 @@ if d==5:
 	print("BBB")	#if•¶‚М‘ОЏЫ
 print("CCC")		#if•¶‚М‘ОЏЫЉO
 
+print("МЮЧЭБђШ‚Б‚Ѕ")
 
